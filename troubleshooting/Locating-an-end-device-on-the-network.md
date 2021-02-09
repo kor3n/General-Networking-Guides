@@ -1,5 +1,5 @@
 # Locating an end device on the network
-This will show how to locate a end device and the path it is connected to from a core device within your local sites network.
+This will show how to locate what switch an end device is connected to both from the core layer of the network and also at access layer.
 
 **The commands shown are used from a cisco device.**
 
