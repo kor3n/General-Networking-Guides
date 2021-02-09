@@ -4,3 +4,4 @@ My Guides on Networking, this covers everything from basic config to advanced an
 # Networking
 
 # Troubleshooting
+[Locating an end device on the network](https://github.com/kor3n/General-Networking-Guides/blob/main/troubleshooting/Locating-an-end-device-on-the-network.md)
