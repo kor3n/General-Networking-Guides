@@ -1,5 +1,5 @@
 # General-Networking-Guides
-My Guides on Networking, this covers everything from basic config to advanced and also troubleshooting tips
+My Guides on Networking, this covers everything from basic config to advance, also troubleshooting and networking tips
 
 # Networking
 
